@@ -1,0 +1,12 @@
+###
+GET http://localhost:8383/getSubmittedPolls
+
+###
+POST http://localhost:8383/pollData
+Content-Type : application/json
+
+{
+    "pollQuestion":"",
+    "pollOptions": [],
+    'p
+}
